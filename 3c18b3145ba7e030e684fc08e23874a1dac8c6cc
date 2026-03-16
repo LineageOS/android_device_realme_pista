@@ -16,6 +16,24 @@
       "message": "Mind double checking the properties against pista stock rom?",
       "revId": "3c18b3145ba7e030e684fc08e23874a1dac8c6cc",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b790cb49_66d4bcd6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 33843
+      },
+      "writtenOn": "2026-03-16T08:35:02Z",
+      "side": 1,
+      "message": "\u003e Mind double checking the properties against pista stock rom?\nI\u0027ll check it later",
+      "parentUuid": "d38f7512_c065be82",
+      "revId": "3c18b3145ba7e030e684fc08e23874a1dac8c6cc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
