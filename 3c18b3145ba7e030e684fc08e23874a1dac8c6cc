@@ -104,6 +104,23 @@
       "parentUuid": "5c700711_59334775",
       "revId": "3c18b3145ba7e030e684fc08e23874a1dac8c6cc",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "48cca4c9_bbf5af0a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32253
+      },
+      "writtenOn": "2026-03-16T10:00:29Z",
+      "side": 1,
+      "message": "Woops, missed it (for context: i set `530` on piloti because the UI was way too big \"both on recovery and systemui\")",
+      "revId": "3c18b3145ba7e030e684fc08e23874a1dac8c6cc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
