@@ -16,6 +16,24 @@
       "message": "Are the configs the same as piloti on stock?",
       "revId": "90e09d528d150a82fca7ec2c928710dca12fb922",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d052bdc1_c1f208b4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 33843
+      },
+      "writtenOn": "2026-03-16T08:44:26Z",
+      "side": 1,
+      "message": "Checked, the same",
+      "parentUuid": "2a84f244_525ee907",
+      "revId": "90e09d528d150a82fca7ec2c928710dca12fb922",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
