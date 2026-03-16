@@ -36,6 +36,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": true,
+      "key": {
+        "uuid": "808cff68_3553b9c9",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 32253
+      },
+      "writtenOn": "2026-03-16T10:02:58Z",
+      "side": 1,
+      "message": "both on displayconfig and boardconfig (for recovery)",
+      "parentUuid": "91fa0a6b_29204ce2",
+      "revId": "3c18b3145ba7e030e684fc08e23874a1dac8c6cc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": false,
       "key": {
         "uuid": "d38f7512_c065be82",
