@@ -69,6 +69,24 @@
       "message": "Add the necessary V+1 votes to the chain whenever you are ready.",
       "revId": "3c18b3145ba7e030e684fc08e23874a1dac8c6cc",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "799028ab_9dc0bb01",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 33843
+      },
+      "writtenOn": "2026-03-16T09:30:58Z",
+      "side": 1,
+      "message": "Sure, waiting for piloti ready.",
+      "parentUuid": "5c700711_59334775",
+      "revId": "3c18b3145ba7e030e684fc08e23874a1dac8c6cc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
