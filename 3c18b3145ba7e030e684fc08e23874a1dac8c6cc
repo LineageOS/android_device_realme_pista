@@ -34,6 +34,24 @@
       "parentUuid": "d38f7512_c065be82",
       "revId": "3c18b3145ba7e030e684fc08e23874a1dac8c6cc",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ad1f409d_e92af8f0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 33843
+      },
+      "writtenOn": "2026-03-16T09:16:22Z",
+      "side": 1,
+      "message": "Compared all \\*vendor.display\\*, same to piloti",
+      "parentUuid": "b790cb49_66d4bcd6",
+      "revId": "3c18b3145ba7e030e684fc08e23874a1dac8c6cc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
