@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9c0463ae_b2b9d8ea",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32253
+      },
+      "writtenOn": "2026-03-16T08:36:40Z",
+      "side": 1,
+      "message": "Have you checked it against pista stock rom? path should be `odm/etc/power_profile/power_profile.xml`",
+      "revId": "93172ec5356404598d087bf89190514926559690",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
