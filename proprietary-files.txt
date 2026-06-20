@@ -1364,6 +1364,7 @@ odm/etc/PanelChaplin/P_3_AB849_dsc_cmd_mode_panel_2_100nit.odf
 odm/etc/PanelChaplin/P_3_AB849_dsc_cmd_mode_panel_2_2nit.odf
 odm/etc/PanelChaplin/P_3_AB849_dsc_cmd_mode_panel_2_max.odf
 odm/etc/PanelChaplin/P_3_AB849_dsc_cmd_mode_panel_HS
+odm/etc/PanelChaplin/panelchaplin
 odm/etc/sdm_display_resolution_extn.xml:vendor/etc/display/sdm_display_resolution_extn.xml;TRYSRCFIRST
 vendor/etc/ltm_config_AB849_P_1_A0022_dsc_cmd_mode_panel.xml
 vendor/etc/ltm_config_P_3_AB849_dsc_cmd_mode_panel.xml
