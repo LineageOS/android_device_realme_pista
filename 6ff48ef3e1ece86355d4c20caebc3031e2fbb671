@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d5af0fa3_7b0b215d",
+        "filename": "properties/odm.prop",
+        "patchSetId": 6
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2026-09-17T20:45:52Z",
+      "side": 1,
+      "message": "Sort it.",
+      "revId": "6ff48ef3e1ece86355d4c20caebc3031e2fbb671",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
