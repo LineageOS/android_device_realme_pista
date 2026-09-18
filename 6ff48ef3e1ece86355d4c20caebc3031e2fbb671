@@ -16,6 +16,24 @@
       "message": "Sort it.",
       "revId": "6ff48ef3e1ece86355d4c20caebc3031e2fbb671",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "207c2503_b1874251",
+        "filename": "properties/odm.prop",
+        "patchSetId": 6
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 33843
+      },
+      "writtenOn": "2026-09-18T16:17:54Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "d5af0fa3_7b0b215d",
+      "revId": "6ff48ef3e1ece86355d4c20caebc3031e2fbb671",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
