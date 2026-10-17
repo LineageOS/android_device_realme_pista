@@ -45,9 +45,6 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/nfc/libnfc-mtp-SN220.conf_24600:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nxp.conf \
     $(LOCAL_PATH)/configs/nfc/libnfc-nci.conf_24600:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nci.conf
 
-# Power
-$(call soong_config_set,qtipower,mode_ext_lib,power-ext-oplus)
-
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
