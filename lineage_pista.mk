@@ -22,8 +22,8 @@ PRODUCT_MODEL := RMX5010
 PRODUCT_GMS_CLIENTID_BASE := android-realme
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BuildDesc="qssi-user 16 BP2A.250605.015 1786355200789 release-keys" \
-    BuildFingerprint=realme/RMX5010/RE6018L1:16/BP2A.250605.015/V.2a20db9-4ff7c3-520e61:user/release-keys \
+    BuildDesc="qssi-user 17 CP2A.260605.016 1791293736607 release-keys" \
+    BuildFingerprint=realme/RMX5010/RE6018L1:17/CP2A.260605.016/V.199bd1f_cac14f_c87d5e:user/release-keys \
     DeviceName=RE6018L1 \
     DeviceProduct=RMX5010 \
     SystemDevice=RE6018L1 \

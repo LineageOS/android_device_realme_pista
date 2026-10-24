@@ -61,7 +61,7 @@ blob_fixups: blob_fixups_user_type = {
         'vendor/lib64/libchifeature2.so',
         'vendor/lib64/vendor.qti.hardware.camera.offlinecamera-service-impl.so',
     ): blob_fixup()
-        .replace_needed('android.hardware.graphics.allocator-V1-ndk.so', 'android.hardware.graphics.allocator-V2-ndk.so'),
+        .remove_needed('android.hardware.graphics.allocator-V1-ndk.so'),
     (
         'vendor/lib64/libcamxcoreutils.so',
         'vendor/lib64/libcamxods.so',
