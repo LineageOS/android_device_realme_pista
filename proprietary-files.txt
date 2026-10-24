@@ -1,5 +1,5 @@
 ## All proprietary files from this list, unless pinned and noted otherwise,
-## are from realme GT7 Pro (RMX5010_16.0.10.500(CN01)).
+## are from realme GT7 Pro (RMX5010_17.0.0.111(CN01)).
 
 # ACDB
 odm/etc/acdbdata/acdb_cal.acdb:vendor/etc/acdbdata/sun_mtp/acdb_cal.acdb
@@ -116,6 +116,10 @@ odm/etc/camera/ancsegbase/anc_cl_kernel.cache
 odm/etc/camera/ancsegbase/ancsegmulti_2_model.data
 odm/etc/camera/ancsegbase/ancsegmulti_5_model.data
 odm/etc/camera/ancsegbase/model.data
+odm/etc/camera/apk_resources/mp4/ai_composition_entry_guide_inspiration_video.mp4
+odm/etc/camera/apk_resources/mp4/ai_composition_entry_guide_inspiration_video_zh.mp4
+odm/etc/camera/apk_resources/mp4/ai_composition_entry_guide_video.mp4
+odm/etc/camera/apk_resources/mp4/ai_composition_entry_guide_video_zh.mp4
 odm/etc/camera/asd/class.dlc
 odm/etc/camera/asd/class_fullfov.dlc
 odm/etc/camera/asd/detect.dlc
@@ -895,6 +899,7 @@ odm/lib64/libOPAlgoCamHybridRaw.so
 odm/lib64/libOPAlgoCamSinglePortrait.so
 odm/lib64/libOPLUSMotionDetection.so
 odm/lib64/libOplusPDCore.so
+odm/lib64/liboplus_lightsensorprovider.so
 odm/lib64/libOpo_awb.so
 odm/lib64/libPDParamParser.so
 odm/lib64/libRedeyeReduce.so
@@ -1213,6 +1218,7 @@ vendor/lib64/com.qti.qseeaon.so
 vendor/lib64/com.qti.qseeutils.so
 vendor/lib64/com.qti.settings.sm8750.so
 vendor/lib64/com.qti.stats.common.so
+vendor/lib64/com.qti.stats.sotr.so
 vendor/lib64/com.qualcomm.mcx.distortionmapper.so
 vendor/lib64/com.qualcomm.mcx.linearmapper.so
 vendor/lib64/com.qualcomm.mcx.nonlinearmapper.so
@@ -1254,6 +1260,7 @@ vendor/lib64/libchinodehmeutils.so
 vendor/lib64/libcom.qti.chinodeutils.so
 vendor/lib64/libcommonchiutils.so
 vendor/lib64/libdepthcomputation.so
+vendor/lib64/libdscaalgo.so
 vendor/lib64/libhdr10plus.so
 vendor/lib64/libhdr_stub.so
 vendor/lib64/libhme.so
@@ -1358,7 +1365,6 @@ vendor/firmware/CAMERA_ICP_170.elf
 
 # Charger firmware
 odm/firmware/fastchg/24600/charging_hyper_mode_config.txt
-odm/firmware/fastchg/24600/silicon_p_x24_single_charging_hyper_mode_config.txt
 odm/firmware/fastchg/bms_heating_config.txt
 odm/firmware/fastchg/charge_time_config.csv
 odm/firmware/fastchg/charging_thermal_config_default.txt
