@@ -34,6 +34,9 @@ blob_fixups: blob_fixups_user_type = {
     ): blob_fixup()
         .replace_needed('libtinyxml2.so', 'libtinyxml2-v34.so'),
     'odm/etc/camera/CameraHWConfiguration.config': blob_fixup()
+        .regex_replace(
+            r'(CustomSAT3rdPipelineName\s+=\s+)OplusSATOfflineReprocess',
+            r'\1OplusOfflineReprocess')
         .regex_replace(r'(enableSWfdForThirdCamUnit += )TRUE', r'\1FALSE')
         .regex_replace(r'(fdSupport += )TRUE;', r'\1FALSE;'),
     'odm/etc/init/init.camera_process.rc': blob_fixup()
