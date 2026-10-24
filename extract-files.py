@@ -29,7 +29,10 @@ namespace_imports = [
 blob_fixups: blob_fixups_user_type = {
     'odm/etc/camera/CameraHWConfiguration.config': blob_fixup()
         .regex_replace(r'(enableSWfdForThirdCamUnit += )TRUE', r'\1FALSE')
-        .regex_replace(r'(fdSupport += )TRUE;', r'\1FALSE;'),
+        .regex_replace(r'(fdSupport += )TRUE;', r'\1FALSE;')
+        .regex_replace(
+            r'(CustomSAT3rdPipelineName\s+=\s+)OplusSATOfflineReprocess',
+            r'\1OplusOfflineReprocess'),
     'odm/lib64/soundfx/libOplusSpatializerAidl.so': blob_fixup()
         .add_needed('libbase.so'),
     (
