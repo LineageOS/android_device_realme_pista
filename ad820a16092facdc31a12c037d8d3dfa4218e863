@@ -16,6 +16,24 @@
       "message": "No symlinks needed?",
       "revId": "ad820a16092facdc31a12c037d8d3dfa4218e863",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1d3b3b38_9a0c06f9",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 1457,
+      "author": {
+        "id": 33843
+      },
+      "writtenOn": "2026-10-25T13:38:24Z",
+      "side": 1,
+      "message": "pista only have two, one in odm and another in vendor. The one in vendor contains odm\u0027s content",
+      "parentUuid": "ccfdd3c1_9f4d8d5a",
+      "revId": "ad820a16092facdc31a12c037d8d3dfa4218e863",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
