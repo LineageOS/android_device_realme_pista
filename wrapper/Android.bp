@@ -1,0 +1,20 @@
+//
+// SPDX-FileCopyrightText: The LineageOS Project
+// SPDX-License-Identifier: Apache-2.0
+//
+
+cc_library_shared {
+    name: "camera.oemlayer_wrapper",
+    vendor: true,
+    relative_install_path: "hw",
+    srcs: [
+        "camera.oemlayer_wrapper.cpp",
+    ],
+    shared_libs: [
+        "liblog",
+        "libcamera_metadata",
+    ],
+    header_libs: [
+        "libhardware_headers",
+    ],
+}
