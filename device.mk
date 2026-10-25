@@ -18,6 +18,10 @@ PRODUCT_COPY_FILES += \
 TARGET_SCREEN_HEIGHT := 2780
 TARGET_SCREEN_WIDTH := 1264
 
+# Camera
+PRODUCT_PACKAGES += \
+    camera.oemlayer_wrapper
+
 # Display
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/display/displayconfig.xml:$(TARGET_COPY_OUT_VENDOR)/etc/displayconfig/display_id_4630947008615494291.xml
