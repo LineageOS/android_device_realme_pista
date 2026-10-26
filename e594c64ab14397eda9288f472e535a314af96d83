@@ -16,6 +16,24 @@
       "message": "Place it here",
       "revId": "e594c64ab14397eda9288f472e535a314af96d83",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "dc8483b5_150f6268",
+        "filename": "extract-files.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 33843
+      },
+      "writtenOn": "2026-10-26T04:45:56Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "dfba8fec_44f52123",
+      "revId": "e594c64ab14397eda9288f472e535a314af96d83",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
